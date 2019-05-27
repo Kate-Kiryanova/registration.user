@@ -1,6 +1,6 @@
-Код вызова компонента:
+##Код вызова компонента:
 
-<?$APPLICATION->IncludeComponent(
+$APPLICATION->IncludeComponent(
     "flxmd:registration.user",
     "registration",
     array(
@@ -9,4 +9,5 @@
         "COMPONENT_TEMPLATE" => "registration",
     ),
     false
-);?>
+);
+
