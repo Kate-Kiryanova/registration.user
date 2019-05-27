@@ -1,4 +1,4 @@
-##Код вызова компонента:
+# Код вызова компонента:
 
 $APPLICATION->IncludeComponent(
     "flxmd:registration.user",
