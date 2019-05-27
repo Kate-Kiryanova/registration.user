@@ -1,0 +1,5 @@
+<?
+$MESS['FLXMD_REGISTRATION_USER_COMPONENT_NAME'] = 'Форма регистрации';
+$MESS['FLXMD_REGISTRATION_USER_COMPONENT_DESCR'] = 'Форма регистрации пользователя';
+$MESS['FLXMD_REGISTRATION_USER_COMPONENT_PATH'] = 'Flex Media';
+?>
